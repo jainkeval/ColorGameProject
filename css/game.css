@@ -1,0 +1,36 @@
+body {
+    background-color: #232323;  
+}
+
+#colorName{
+    font-size: 200%;
+}
+
+h1 {
+    font-size: 350%;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+.square {
+    background-color: #0ffbfd;
+    width: 30%;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
+.stripe {
+    text-align: center;
+    background-color: white;
+    height: 26px;
+}    
+.grid {
+    margin: 0px auto;
+    max-width: 680px;
+}
+.msg {
+    background-color: white;
+}
+.selected {
+    background-color: blue;
+}
